@@ -108,7 +108,7 @@ WHERE c.cert_name LIKE '%CFA%';
 
 ## Screenshots
 
-> Run `python main.py` to see the interactive CLI dashboard.
+> Note: All the data and information are hypothetical and do not represent any real person.
 <img width="1351" height="366" alt="screenshot_1" src="https://github.com/user-attachments/assets/8be9e1c4-c573-4f47-846d-d51c4dc1b29a" />
 <img width="1351" height="508" alt="screenshot_2" src="https://github.com/user-attachments/assets/88df795a-20c6-4296-8fb3-fb2c5e706a65" />
 <img width="1357" height="511" alt="screenshot_3" src="https://github.com/user-attachments/assets/31d141cf-218b-4454-a340-5fd1c5658da1" />
