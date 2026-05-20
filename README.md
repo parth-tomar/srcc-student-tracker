@@ -1,10 +1,10 @@
-# 📊 SRCC Student Domain Tracker
+# SRCC Student Domain Tracker
 
-A Python + MySQL system to track **SRCC (Sri Ram College of Commerce)** students pursuing **Consulting**, **Finance**, and **Marketing** domains — including their skills, internships, certifications, and placement status.
+A Python + MySQL system to track **SRCC (Shri Ram College of Commerce)** students pursuing **Consulting**, **Finance**, and **Marketing** domains — including their skills, internships, certifications, and placement status.
 
 ---
 
-## 🗂️ Features
+## Features
 
 - Track students across 3 domains: **Consulting**, **Finance**, **Marketing**
 - Store student profiles: year, GPA, skills, LinkedIn, email
@@ -16,7 +16,7 @@ A Python + MySQL system to track **SRCC (Sri Ram College of Commerce)** students
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Tech |
 |---|---|
@@ -28,7 +28,7 @@ A Python + MySQL system to track **SRCC (Sri Ram College of Commerce)** students
 
 ---
 
-## 🚀 Setup
+## Setup
 
 ### 1. Clone the repo
 ```bash
@@ -63,7 +63,7 @@ python main.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 srcc_tracker/
@@ -86,7 +86,7 @@ srcc_tracker/
 
 ---
 
-## 📊 Sample Queries
+## Sample Queries
 
 ```sql
 -- How many students per domain?
@@ -106,13 +106,13 @@ WHERE c.cert_name LIKE '%CFA%';
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > Run `python main.py` to see the interactive CLI dashboard.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests welcome. For major changes, open an issue first.
 
