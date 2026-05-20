@@ -122,6 +122,6 @@ Pull requests welcome. For major changes, open an issue first.
 
 ---
 
-## 📄 License
+## License
 
-MIT
+This project is licensed under the [MIT License](LICENSE).
